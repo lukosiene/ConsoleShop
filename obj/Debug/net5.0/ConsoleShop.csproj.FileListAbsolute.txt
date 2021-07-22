@@ -1,0 +1,16 @@
+C:\Users\37060\source\repos\PaskaituKodai\ConsoleShop\bin\Debug\net5.0\ConsoleShop.exe
+C:\Users\37060\source\repos\PaskaituKodai\ConsoleShop\bin\Debug\net5.0\ConsoleShop.deps.json
+C:\Users\37060\source\repos\PaskaituKodai\ConsoleShop\bin\Debug\net5.0\ConsoleShop.runtimeconfig.json
+C:\Users\37060\source\repos\PaskaituKodai\ConsoleShop\bin\Debug\net5.0\ConsoleShop.runtimeconfig.dev.json
+C:\Users\37060\source\repos\PaskaituKodai\ConsoleShop\bin\Debug\net5.0\ConsoleShop.dll
+C:\Users\37060\source\repos\PaskaituKodai\ConsoleShop\bin\Debug\net5.0\ref\ConsoleShop.dll
+C:\Users\37060\source\repos\PaskaituKodai\ConsoleShop\bin\Debug\net5.0\ConsoleShop.pdb
+C:\Users\37060\source\repos\PaskaituKodai\ConsoleShop\obj\Debug\net5.0\ConsoleShop.csproj.AssemblyReference.cache
+C:\Users\37060\source\repos\PaskaituKodai\ConsoleShop\obj\Debug\net5.0\ConsoleShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37060\source\repos\PaskaituKodai\ConsoleShop\obj\Debug\net5.0\ConsoleShop.AssemblyInfoInputs.cache
+C:\Users\37060\source\repos\PaskaituKodai\ConsoleShop\obj\Debug\net5.0\ConsoleShop.AssemblyInfo.cs
+C:\Users\37060\source\repos\PaskaituKodai\ConsoleShop\obj\Debug\net5.0\ConsoleShop.csproj.CoreCompileInputs.cache
+C:\Users\37060\source\repos\PaskaituKodai\ConsoleShop\obj\Debug\net5.0\ConsoleShop.dll
+C:\Users\37060\source\repos\PaskaituKodai\ConsoleShop\obj\Debug\net5.0\ref\ConsoleShop.dll
+C:\Users\37060\source\repos\PaskaituKodai\ConsoleShop\obj\Debug\net5.0\ConsoleShop.pdb
+C:\Users\37060\source\repos\PaskaituKodai\ConsoleShop\obj\Debug\net5.0\ConsoleShop.genruntimeconfig.cache
